@@ -1,4 +1,4 @@
-package chap03.section3.funcargs
+package chap03.section3.a_funcargs
 //고차함수 : 일반 함수를 인자로 사용하기
 
 fun sum(a:Int, b:Int)=a+b

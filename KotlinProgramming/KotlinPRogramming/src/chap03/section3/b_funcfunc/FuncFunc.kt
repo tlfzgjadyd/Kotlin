@@ -1,4 +1,4 @@
-package chap03.section3.funcfunc
+package chap03.section3.b_funcfunc
 //고차함수 : 일반 함수를 리턴값으로 사용하기
 
 fun sum(a: Int, b : Int) =a+b
