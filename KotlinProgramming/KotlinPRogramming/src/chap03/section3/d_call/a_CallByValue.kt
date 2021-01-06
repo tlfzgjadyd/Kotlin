@@ -1,4 +1,4 @@
-package chap03.section3
+package chap03.section3.d_call
 
 //지금상태론 callByValue(lambda())에서 인자로 넘긴 lambda함수먼저 실행되고 그다음에 겉함수인 callByValue 실행됨
 fun callByValue(b:Boolean):Boolean{ //여기서 인자로 lambda를 받을때 Boolean타입으로 받는다는것이 특징

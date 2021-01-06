@@ -1,4 +1,4 @@
-package chap03.section3
+package chap03.section3.c_high
 //고차함수 : 인자와 반환값이 없는 람다식 함수
 
 fun main() {

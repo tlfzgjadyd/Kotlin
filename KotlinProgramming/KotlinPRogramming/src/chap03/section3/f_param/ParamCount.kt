@@ -1,4 +1,4 @@
-package chap03.section3
+package chap03.section3.f_param
 
 fun main() {
     //매개변수 없는 람다식

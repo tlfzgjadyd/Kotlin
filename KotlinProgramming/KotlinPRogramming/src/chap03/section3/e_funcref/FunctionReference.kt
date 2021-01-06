@@ -1,4 +1,4 @@
-package chap03.section3
+package chap03.section3.e_funcref
 
 
 fun main() {

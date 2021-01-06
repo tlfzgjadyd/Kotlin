@@ -1,4 +1,4 @@
-package chap03.section3
+package chap03.section3.c_high
 //고차함수 : 람다식을 리턴값으로 사용하기
 
 fun highOrder(sum: (Int, Int) -> Int, a:Int, b:Int): Int{  
