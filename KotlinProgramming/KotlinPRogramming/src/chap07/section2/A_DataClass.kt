@@ -19,6 +19,7 @@ package chap07.section2
 * 3. equals, hashCode
 * 4. copy (객체 복사가 가능하며 일부 프로퍼티는 값 바꿔서 복사해올 수 있음)
 * 5. 프로퍼티에 상응하는 component1(), componene2()등 이라는데 뭔소린지 모르겠음 뒤에 가면 나오겠지
+* => componentN()을 통해 객체의 N번째 프로퍼티를 뽑아올 수 있고 이때 N에는 숫자가 오게 된다
 * 
 * < DTO를 사용해야하는 이유 >
 * DTO를 사용해야 하는 이유는 전달 객체의 표준을 따를 경우 전달하고 받는것이 쉽기 때문이다
@@ -41,6 +42,7 @@ package chap07.section2
 * 3. copy() : 복사는 복사인데 특정 프로퍼티는 값을 변경해서 객체 복사하기
 * 4. toString() : 문자열로 변환
 * 5. componentN() : 객체의 선언부 구조를 분해하기 위해 프로퍼티에 상응하는 메소드
+*                   디스트럭처링 할때 N번째 프로퍼티를 가져오고 싶으면 객체명.componentN()하면 된다
 * */
 
 data class Customer(var name: String, var email: String){
