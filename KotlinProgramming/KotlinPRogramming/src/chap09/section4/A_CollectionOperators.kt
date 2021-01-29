@@ -22,7 +22,6 @@ package chap09.section4
 * 1, 2, 3쪽이 값이다
 * 즉 val 변수명 = mapOf(키1 to 값1, 키2 to 값2, 키3 to 값3)
 * 이런식으로 되는것
-* 
 * */
 
 fun main() {
