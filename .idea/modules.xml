@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloKotlin/HelloKotlin.iml" filepath="$PROJECT_DIR$/HelloKotlin/HelloKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kotlin.iml" filepath="$PROJECT_DIR$/Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinProgramming/KotlinProgramming.iml" filepath="$PROJECT_DIR$/KotlinProgramming/KotlinProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+    </modules>
+  </component>
+</project>
