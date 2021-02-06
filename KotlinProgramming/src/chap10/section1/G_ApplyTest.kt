@@ -22,8 +22,6 @@ package chap10.section1
 * also는 생략 못함
 * 대강 레이아웃 초기화, 디렉터리 생성하는 등에 이용하는듯
 *
-*
-* 
 * */
 
 fun main() {
