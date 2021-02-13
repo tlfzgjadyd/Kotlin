@@ -56,7 +56,7 @@ println(number)
 함수도 대문자로 Random 쓰는게 맞다고 외우면 됨
 * */
 
-import kotlin.random.Random;
+import kotlin.random.Random
 fun main() {
     val num = Random.nextInt(100)
     println(num)
