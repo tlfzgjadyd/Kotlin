@@ -1,7 +1,7 @@
 package chap05
 
 open class Point(var x:Int, var y:Int){//추상 아니니까 상속하려면 open
-    fun move(x:Int, y:Int){
+    open fun move(x:Int, y:Int){
         this.x=x
         this.y=y //이거는 자바랑 똑같이 this 쓰는거였지 .으로 접근하는거임 this->는 c++였음
     }
